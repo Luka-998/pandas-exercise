@@ -1,2 +1,2 @@
 # pandas-exercise
-import pandas as np :_)
+import pandas as pd :_)
